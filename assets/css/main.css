@@ -2191,6 +2191,7 @@ select {
   width: 100%;
   right: 0px;
   z-index: 91;
+  background: #fff;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-header-area-two {
@@ -2227,6 +2228,11 @@ select {
   align-items: center;
   min-height: 150px;
 }
+
+.tp-header-logo-two-inner img{
+  height:150px;
+}
+
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-header-logo-two-inner {
     padding-left: 20px;
@@ -8026,4 +8032,16 @@ select {
 .breadcrumb-trail {
     padding-left: 0;
     padding-right: 0;
+}
+
+.logovistion{
+  text-align: left;
+  height: 150px;
+  border-right: 1px solid #e5e8e9;
+  display: flex;
+  align-items: center;
+}
+
+.logovistion img{
+
 }

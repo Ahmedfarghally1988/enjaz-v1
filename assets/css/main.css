@@ -8043,6 +8043,9 @@ select {
     background: #fff;
 }
 
-.logovistion img{
-
+.tp-footer-info-logo img{
+    height: 135px;
+    background: #fff;
+    border-radius: 70px;
 }
+

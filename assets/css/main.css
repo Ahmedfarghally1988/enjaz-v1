@@ -2191,7 +2191,7 @@ select {
   width: 100%;
   right: 0px;
   z-index: 91;
-  background: #fff;
+  
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-header-area-two {
@@ -2230,7 +2230,7 @@ select {
 }
 
 .tp-header-logo-two-inner img{
-  height:150px;
+  height:135px;
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -8035,11 +8035,12 @@ select {
 }
 
 .logovistion{
-  text-align: left;
-  height: 150px;
-  border-right: 1px solid #e5e8e9;
-  display: flex;
-  align-items: center;
+    text-align: left;
+    height: 150px;
+    border-right: 1px solid #e5e8e9;
+    display: flex;
+    align-items: center;
+    background: #fff;
 }
 
 .logovistion img{

@@ -8057,3 +8057,6 @@ select {
     border-radius: 70px;
 }
 
+.sticky-menu ..logovistion{
+    height: auto !important;
+}

@@ -2315,7 +2315,7 @@ select {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .tp-header-menu-two {
-    padding: 0px;
+    padding: 0px 15px;
   }
 }
 
@@ -2878,6 +2878,14 @@ select {
   .tp-slider-title-two span {
     font-size: 36px;
   }
+
+.logovistion {
+
+    height: auto;
+  
+}	
+	
+	
 }
 
 .tp-slider-subtitle-two {

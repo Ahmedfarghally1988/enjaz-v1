@@ -2881,7 +2881,7 @@ select {
 
 .logovistion {
 
-    height: auto;
+        height: auto !important;
   
 }	
 	
